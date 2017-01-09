@@ -13,6 +13,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20px"
+        android:hand_hour="@drawable/clockgoog_hour"
+        android:hand_minute="@drawable/clockgoog_minute"
+        android:dial="@drawable/clockgoog_dial"
         android:id="@+id/jam"
         android:textSize="60px"/>
 
